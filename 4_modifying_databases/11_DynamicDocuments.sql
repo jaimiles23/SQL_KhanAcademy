@@ -37,7 +37,7 @@ SELECT * FROM documents;
 
 
 /* Step 1 */
-UPDATE documents SET author = "Jackie Draper";
+UPDATE documents SET author = "Jackie Draper" WHERE author = "Jackie Paper";
 
 SELECT * FROM documents;
 
