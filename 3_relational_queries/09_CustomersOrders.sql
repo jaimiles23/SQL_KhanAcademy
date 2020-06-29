@@ -6,9 +6,9 @@
  * @desc [
       Solution to Challenge 9: [Customer's Orders](https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-customers-orders)
 
-      Step 1: Show customer names, emails, and their order item and prices. Show all customers.CASE
+      Step 1: Show customer names, emails, and their order item and prices. Show all customers.
 
-      Step 2: Show customer name, email, and money spent. Order descending money spent.CASE
+      Step 2: Show customer name, email, and money spent. Order descending money spent.
 
       NOTES:
       - Use LEFT OUTER JOIN to display all customers, regardless of items purchased.
